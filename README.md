@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning more about deep learning
 - 💬 Ask me about Bioinformatics
 - 😄 Pronouns: he/him
+- 👯 I’m looking to collaborate on biochemistry and bioinformatics
 
 
 <!--
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - ⚡ Fun fact:
 -->
