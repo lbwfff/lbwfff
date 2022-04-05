@@ -5,12 +5,13 @@
 - ⚙️ I use daily: `.R`,`.python`
 - 🌱 I’m currently learning more about deep learning
 - 💬 Ask me about Bioinformatics
-- 📫 How to reach me: 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+
 
 <!--
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with
+- ⚡ Fun fact:
 -->
