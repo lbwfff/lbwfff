@@ -4,7 +4,7 @@
 - 🏢 I'm currently working at **New York University Abu Dhabi**
 - 📫 How to reach me: send to **leebw@stu.hunau.edu.cn**
 - ⚙️ I use daily: `.R`,`.python`
-- 🌱 I’m currently learning more about deep learning
+- 🌱 I’m currently learning more about deep learning & Third-generation sequencing
 - 💬 Ask me about Bioinformatics
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on biochemistry and bioinformatics
