@@ -1,7 +1,7 @@
 ### Hi there, I'm [LeeLee] 👋
 
 - 🔭 I’m currently working on [RNA dynamics]
-- 🏢 I'm currently working at **University**
+- 🏢 I'm currently working at **New York University Abu Dhabi**
 - 📫 How to reach me: send to **leebw@stu.hunau.edu.cn**
 - ⚙️ I use daily: `.R`,`.python`
 - 🌱 I’m currently learning more about deep learning
